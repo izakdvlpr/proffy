@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
     fontSize: 24,
     lineHeight: 32,
     maxWidth: 160,
-    marginVertical: 20,
+    marginVertical: 60,
   }
 });
 
