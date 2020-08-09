@@ -8,6 +8,20 @@ const styles = StyleSheet.create({
   
   teacherList: {
     marginTop: -40,  
+  },
+  
+  teacherAlert: {
+    marginTop: 90,    
+    flex: 1,
+    alignItems: "center",
+    justifyContent: "center"
+  },
+  
+  teacherAlertText: {
+    color: "#9C98A6",
+    fontFamily: "Poppins_400Regular",
+    fontSize: 16,
+    textAlign: "center"
   }
 });
 

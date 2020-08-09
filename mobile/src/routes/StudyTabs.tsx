@@ -43,7 +43,7 @@ function StudyTabs() {
         options={{
           tabBarLabel: "Proffys",
           tabBarIcon: ({ color, size, focused }) => {
-            return <Ionicons name="ios-people" size={size} color={focused ? '#8257E5' : color} />;
+            return <Ionicons name="ios-easel" size={size} color={focused ? '#8257E5' : color} />;
           },
         }}
       />

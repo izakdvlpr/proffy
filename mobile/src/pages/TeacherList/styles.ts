@@ -6,10 +6,6 @@ const styles = StyleSheet.create({
     backgroundColor: "#F0F0F7",
   },
 
-  teacherList: {
-    marginTop: -40,
-  },
-
   searchForm: {
     marginBottom: 24,
   },
@@ -37,21 +33,39 @@ const styles = StyleSheet.create({
     marginTop: 4,
     marginBottom: 16,
   },
-  
+
   submitButton: {
-    backgroundColor: "#04D361",        
+    backgroundColor: "#04D361",
     height: 56,
     borderRadius: 8,
     flexDirection: "row",
     justifyContent: "center",
-    alignItems: "center",    
+    alignItems: "center",
   },
-  
+
   submitButtonText: {
     color: "#FFF",
     fontFamily: "Archivo_700Bold",
     fontSize: 16,
   },
+
+  teacherList: {
+    marginTop: -40,
+  },
+
+  teacherAlert: {
+    marginTop: 90,    
+    flex: 1,
+    alignItems: "center",
+    justifyContent: "center"
+  },
+  
+  teacherAlertText: {
+    color: "#9C98A6",
+    fontFamily: "Poppins_400Regular",
+    fontSize: 16,
+    textAlign: "center"
+  }
 });
 
 export default styles;

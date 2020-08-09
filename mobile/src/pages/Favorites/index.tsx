@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { View, ScrollView, AsyncStorage } from "react-native";
-import { useFocusEffect } from '@react-navigation/native';
+import { View, ScrollView, AsyncStorage, Text } from "react-native";
+import { useFocusEffect } from "@react-navigation/native";
 
 import PageHeader from "../../components/PageHeader";
 import TeacherItem, { Teacher } from "../../components/TeacherItem";
@@ -27,6 +27,14 @@ function Favorites() {
   return (
     <View style={styles.container}>
       <PageHeader title="Meus proffys favoritos" />
+
+      {favorites.length > 0 ? null : (
+        <View style={styles.teacherAlert}>
+          <Text style={styles.teacherAlertText}>
+            Nenhum professor na sua{"\n"}lista de favoritos
+          </Text>
+        </View>
+      )}
 
       <ScrollView
         style={styles.teacherList}

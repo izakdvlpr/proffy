@@ -20,7 +20,7 @@ export default class ClassesController {
 
     if (!filters.week_day || !filters.subject || !filters.time) {
       return response.status(400).json({
-        error: " Missing filters to search classes",
+        error: "Missing filters to search classes",
       });
     }
 

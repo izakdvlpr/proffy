@@ -3,8 +3,7 @@ import { View, ScrollView, Text, TextInput } from "react-native";
 import { BorderlessButton, RectButton } from "react-native-gesture-handler";
 import { Feather } from "@expo/vector-icons";
 import AsyncStorage from "@react-native-community/async-storage";
-import { useFocusEffect } from '@react-navigation/native';
-
+import { useFocusEffect } from "@react-navigation/native";
 
 import PageHeader from "../../components/PageHeader";
 import TeacherItem, { Teacher } from "../../components/TeacherItem";
@@ -36,10 +35,10 @@ function TeacherList() {
       }
     });
   }
-  
+
   useFocusEffect(() => {
     loadFavorites();
-  })
+  });
 
   function handleToggleFiltersVisible() {
     setIsFillersVisible(!isFillersVisible);
@@ -47,7 +46,7 @@ function TeacherList() {
 
   async function handleFiltersSubmit() {
     loadFavorites();
-    
+
     const response = await api.get("classes", {
       params: {
         subject,
@@ -114,7 +113,15 @@ function TeacherList() {
           </View>
         )}
       </PageHeader>
-
+      
+      {teachers.length > 0 ? null : (
+        <View style={styles.teacherAlert}>
+          <Text style={styles.teacherAlertText}>
+            Nenhum professor encontrado{"\n"}com sua pesquisa
+          </Text>
+        </View>
+      )}
+      
       <ScrollView
         style={styles.teacherList}
         contentContainerStyle={{
@@ -131,7 +138,7 @@ function TeacherList() {
             />
           );
         })}
-      </ScrollView>
+      </ScrollView>      
     </View>
   );
 }
