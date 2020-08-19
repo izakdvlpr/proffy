@@ -20,6 +20,8 @@
 
 **Captura de tela da interface web**
 
+Veja o deploy do site [clicando aqui](https://proffy-web-deploy.vercel.app).
+
 <div>
   <img src="./.github/web-landing.jpg" width="400px">
   <img src="./.github/web-give-classes.jpg" width="400px">
@@ -27,7 +29,7 @@
 
 **Captura de tela da interface mobile**
 
-Faça o download do app [clicando aqui]().
+Faça o download do **app para android** [clicando aqui]().
 
 <div>
   <img src="./.github/mobile-splash.jpeg" width="180px">
