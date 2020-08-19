@@ -20,12 +20,23 @@
 
 **Captura de tela da interface web**
 
-<div style="display: flex;">
-  <img src="./.github/web-landing.jpg" width="600px" style="margin-right: 15px;">
-  <img src="./.github/web-give-classes.jpg" width="600px">
+[Clique aqui](https://proffy-web-deploy.vercel.app/) para acessar a deploy do site.
+
+<div>
+  <img src="./.github/web-landing.jpg" width="400px">
+  <img src="./.github/web-give-classes.jpg" width="400px">
 </div>
 
 **Captura de tela da interface mobile**
+
+Faça o download do app [clicando aqui]().
+
+<div>
+  <img src="./.github/mobile-splash.jpeg" width="180px">
+  <img src="./.github/mobile-landing.jpeg" width="180px">
+  <img src="./.github/mobile-give-classes.jpeg" width="180px">
+  <img src="./.github/mobile-favorites.jpeg" width="180px">
+</div>
 
 ## :page_with_curl: Sobre
 
