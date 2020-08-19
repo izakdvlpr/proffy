@@ -20,9 +20,9 @@
 
 **Captura de tela da interface web**
 
-<div style="display: flex;">
-  <img src="./.github/web-landing.jpg" width="600px" style="margin-right: 15px;">
-  <img src="./.github/web-give-classes.jpg" width="600px">
+<div>
+  <img src="./.github/web-landing.jpg" width="400px" style="margin-right: 15px;">
+  <img src="./.github/web-give-classes.jpg" width="400px">
 </div>
 
 **Captura de tela da interface mobile**
