@@ -23,13 +23,13 @@
 Veja o deploy do site [clicando aqui](https://proffy-web-deploy.vercel.app).
 
 <div>
-  <img src="./.github/web-landing.jpg" width="400px">
+  <img src="./.github/web-landing.jpg" width="400px"> 
   <img src="./.github/web-give-classes.jpg" width="400px">
 </div>
 
 **Captura de tela da interface mobile**
 
-Faça o download do **app para android** [clicando aqui]().
+Faça o download do **app para android** [clicando aqui](http://www.mediafire.com/file/zp0mxtvjc1fo591/file).
 
 <div>
   <img src="./.github/mobile-splash.jpeg" width="180px">
