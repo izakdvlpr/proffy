@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/725525454160789606/745769382977863770/logo.png" width="250px" alt="logo">
+  <img src="./.github/logo.png" width="250px" alt="logo">
   <p style="font-weight: bold">Plataforma de estudos online</p>
   <p>
+    <a href="#keyboard-resultado">Resultado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#gear-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,6 +15,17 @@
     <img src="https://img.shields.io/github/license/zevdvlpr/proffy?color=0080ff&label=License&style=flat-square" alt="License">
   </a>
 </div>
+
+## :keyboard: Resultado
+
+**Captura de tela da interface web**
+
+<div style="display: flex;">
+  <img src="./.github/web-landing.jpg" width="600px" style="margin-right: 15px;">
+  <img src="./.github/web-give-classes.jpg" width="600px">
+</div>
+
+**Captura de tela da interface mobile**
 
 ## :page_with_curl: Sobre
 
