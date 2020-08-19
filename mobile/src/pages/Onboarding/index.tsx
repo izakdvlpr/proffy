@@ -47,7 +47,7 @@ function Onboarding() {
   return (
     <View style={styles.container}>
       <StatusBar hidden={true} />
-      <Swiper index={1} showsPagination={false}>
+      <Swiper index={0} showsPagination={false}>
         <View style={styles.slide}>
           <View style={[styles.topSide, { backgroundColor: "#8257E5" }]}>
             <Feather name="book-open" size={80} color="#FFF" />

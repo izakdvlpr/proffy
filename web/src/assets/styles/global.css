@@ -19,7 +19,7 @@
   --color-box-footer: #fafafc;
 
   /* font-size: 60%; */
-  font-size: 60%;
+  font-size: 50%;
 }
 
 * {
@@ -60,6 +60,6 @@ textarea {
 @media (min-width: 700px) {
   :root {
     /* font-size: 62.5%; */
-    font-size: 62.5%;
+    font-size: 45%;
   }
 }
