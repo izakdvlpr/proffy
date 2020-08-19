@@ -141,7 +141,7 @@ O objetivo do projeto é conectar professores e seus alunos para agendarem suas 
 - Instale as dependências com o comando: `yarn install`
 - Inicie com o comando: `yarn start`
 
-**Web**
+**Mobile**
 
 - Navegue até a pasta do mobile.
 - Instale as dependências com o comando: `yarn install`
