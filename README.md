@@ -20,8 +20,6 @@
 
 **Captura de tela da interface web**
 
-[Clique aqui](https://proffy-web-deploy.vercel.app/) para acessar a deploy do site.
-
 <div>
   <img src="./.github/web-landing.jpg" width="400px">
   <img src="./.github/web-give-classes.jpg" width="400px">
