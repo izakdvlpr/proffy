@@ -29,7 +29,7 @@ Veja o deploy do site [clicando aqui](https://proffy-web-deploy.vercel.app).
 
 **Captura de tela da interface mobile**
 
-Faça o download do **app para android** [clicando aqui](http://www.mediafire.com/file/zp0mxtvjc1fo591/file).
+Faça o download do **app para android** [clicando aqui](http://download1081.mediafire.com/l90pdc4f5jyg/zp0mxtvjc1fo591/proffy-mobile-deploy.apk).
 
 <div>
   <img src="./.github/mobile-splash.jpeg" width="180px">
