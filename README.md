@@ -135,7 +135,7 @@ O objetivo do projeto é conectar professores e seus alunos para agendarem suas 
 - Instale as dependências com o comando: `yarn install`
 - Inicie o **servidor** de desenvolvimento com o comando: `yarn start`
 
-**Cliente**
+**Client**
 
 - Navegue até a pasta da web.
 - Instale as dependências com o comando: `yarn install`
