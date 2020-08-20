@@ -11,8 +11,15 @@
     <a href="#wrench-creditos">Creditos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#customs-license">Licença</a>
   </p>
+  <img src="https://img.shields.io/github/repo-size/zevdvlpr/proffy?color=8257e5&style=flat-square" alt="GitHub repo size">
+  <a href="https://github.com/zevdvlpr/proffy/commits/master">
+    <img src="https://img.shields.io/github/last-commit/zevdvlpr/proffy?color=8257e5&style=flat-square" alt="GitHub last commit">
+  </a>
   <a href="https://github.com/zevdvlpr/proffy/tree/master/LICENSE">
-    <img src="https://img.shields.io/github/license/zevdvlpr/proffy?color=0080ff&label=License&style=flat-square" alt="License">
+    <img src="https://img.shields.io/github/license/zevdvlpr/proffy?color=8257e5&label=license&style=flat-square" alt="GitHub License">
+  </a>  
+  <a href="https://github.com/zevdvlpr/proffy/stargazers">
+    <img src="https://img.shields.io/github/stars/zevdvlpr/proffy?color=8257e5&logo=github&style=flat-square" alt="GitHub Stargazers">
   </a>
 </div>
 
