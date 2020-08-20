@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="./.github/logo.png" width="250px" alt="logo">
-  <p style="font-weight: bold">Plataforma de estudos online</p>
+  <img src="./.github/logo.png" width="250px" alt="logo">  
+  <p><b>Plataforma de estudos online</b></p>
   <p>
     <a href="#keyboard-resultado">Resultado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
